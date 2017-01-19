@@ -1,0 +1,92 @@
+[size=x-large]概要[/size]
+
+OSSのGitリポジトリ管理ツールのGitLabについてのゆる～い感じの情報交換会です。
+GitLabでどんなことが出来るのか知りたい方や、有効に活用する方法について知りたい方の参加をお待ちしております。
+
+[size=x-large]最小催行人数[/size]
+
+* 5名
+
+[size=x-large]発表者[/size]
+
+* Hiroyuki Sato
+** GitLab コントリビューター (GitLab 5.1 MVP受賞)
+** GitLabアカウント: [url=https://gitlab.com/hiroponz]hiroponz[/url]
+
+[size=x-large]日時[/size]
+
+* 2016年12月9日(金) 19:00〜21:00 (開場 18:30)
+
+[size=x-large]場所[/size]
+
+* 株式会社インフィニットループ
+** 宮城県仙台市宮城野区榴岡4丁目5番22号　宮城野センタービル405号室
+** ヨドバシカメラさん向かいです
+
+19:00以降は入り口の鍵が閉まるので、通用口からの入館となります。
+ビルへの入り方は以下のページを参照して下さい。
+
+* http://www.infiniteloop.co.jp/special/room-sendai.php
+
+[size=large]設備[/size]
+
+* 無線LANを利用できます
+* 電源は利用できますが数に限りがあります
+
+[size=x-large]参加費[/size]
+
+* 無料
+
+[size=x-large]対象[/size]
+
+* Gitリポジトリの管理ツールを探している
+* GitLabで何が出来るのか知りたい
+* GitLabをもっと使いこなしたい
+
+[b]Gitの基本的な使い方が分かる方が対象です[/b]
+
+[size=x-large]内容[/size]
+
+[size=large]タイムテーブル[/size]
+
+* 19:00 - 19:30 : 1. GitLabの基本機能の説明
+* 19:30 - 20:30 : 2. GitLabのハンズオン
+* 20:30 - 21:00 : 3. LT、雑談タイム
+
+[size=large]1. GitLabの基本機能の説明[/size]
+
+GitLabの基本機能について説明します。
+
+1. GitLabとは？
+2. Repository機能の説明
+3. Issue機能の説明
+4. Merge Request機能の説明
+5. Pipeline機能の説明
+
+[size=large]2. GitLabのハンズオン[/size]
+
+GitLabに練習用のProjectを作成し、GitLabでどんなことができるのか体験してみましょう。
+
+[size=large]3. LT[/size]
+
+特にGitLabとは関係なくても、IT関連のネタで何か話したい人がいれば発表をお願いします。
+
+※制限時間は5分です。
+
+時間が余った場合は、早めに解散して参加者同士の雑談タイムとします。
+
+[size=x-large]持ち物[/size]
+
+* ノートPC
+
+[size=x-large]事前準備[/size]
+
+* 当日お持ち頂くPCにGitをインストールしておいて下さい。
+* 当日のハンズオンに必要なためGitLabのアカウントを作成しておいて下さい。
+** [url=https://gitlab.com/users/sign_in]サインアップページ[/url]
+
+[size=x-large]お申し込み[/size]
+
+下記のページよりお申し込み下さい。
+
+* https://gitlab-jp.connpass.com/event/45061/
