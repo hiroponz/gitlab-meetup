@@ -1,44 +1,89 @@
-## GitLabについての簡単なプレゼン資料
+## 概要
 
-[第一回GitLab Meetup@仙台](https://docs.google.com/presentation/d/1bdKrkkIe9bvNJ8nql-a-Z3KIoFWUGEpCcrxiJMAF3Hk/edit?usp=sharing)
+OSSのGitリポジトリ管理ツールのGitLabについてのゆる～い感じの情報交換会です。
+GitLabでどんなことが出来るのか知りたい方や、有効に活用する方法について知りたい方の参加をお待ちしております。
 
-## GitLab Pagesでウェブページをデプロイするハンズオン
+## 最小催行人数
 
-### 1. チャットのアカウントを作成する
+* 5名
 
-コミュニケーションツールとして、GitLabのパッケージにバンドルされているチャットのMattermostのクラウドサービス版を利用します。
+## 発表者
 
-#### 手順
+* Hiroyuki Sato
+    * GitLab コントリビューター (GitLab 5.1 MVP受賞)
+    * GitLabアカウント: [hiroponz](https://gitlab.com/hiroponz)
 
-1. https://gitlab.com にログインします。
-1. https://gitlab.mattermost.com を表示します。
-1. Sign in with: 「GitLab」をクリックします。
-1. Your teams: 「Community」をクリックします。
-1. CHANNELSの下の「More...」をクリックします。
-1. Search channelsに"gitlab-jp"を入力し「Join」をクリックします。
+## 日時
 
-### 2. JekyllのテンプレートプロジェクトをForkしてGitLab Pagesにデプロイする
+* 2016年12月9日(金) 19:00〜21:00 (開場 18:30)
 
-#### 用語解説
+## 場所
 
-* "Jekyll"とは人気のあるStatic Site Generator(SSG)の一つでブログによく利用されます。
-* "Fork"とはプロジェクトをコピーして別のプロジェクトを開始することです。
+* 株式会社インフィニットループ
+    * 宮城県仙台市宮城野区榴岡4丁目5番22号　宮城野センタービル405号室
+    * ヨドバシカメラさん向かいです
 
-#### 手順
 
-1. [Jekyllのテンプレートプロジェクト](https://gitlab.com/gitlab-jp/jekyll)を表示します。
-1. 「Fork」をクリックします。
-1. Forkしたプロジェクトで「Pipelines」メニューを表示します。
-1. 「Run Pipeline」をクリックします。
-1. New Pipeline画面で「Create pipeline」をクリックします。
-1. Pipelineが完了するまでしばらく待ちます。
-1. `https://<your account>.gitlab.io/jekyll`にページがデプロイされていることを確認します。
+19:00以降は入り口の鍵が閉まるので、通用口からの入館となります。
+ビルへの入り方は以下のページを参照して下さい。
 
-### 3. 元プロジェクトを修正してマージリクエストを送る
+* http://www.infiniteloop.co.jp/special/room-sendai.php
 
-gitlab-jp/jekyll#1 に従い作業して下さい。
+### 設備
 
-### 3. 各自で自由にGitLabをいじってみる
+* 無線LANを利用できます
+* 電源は利用できますが数に限りがあります
 
-各自で自由にGitLabをいじってみて何が出来るのか試して下さい。
-質問などがあれば、随時、主催者に質問をして下さい。
+## 参加費
+
+* 無料
+
+## 対象
+
+* Gitリポジトリの管理ツールを探している
+* GitLabで何が出来るのか知りたい
+* GitLabをもっと使いこなしたい
+
+**Gitの基本的な使い方が分かる方が対象です**
+
+## 内容
+
+### タイムテーブル
+
+| 時間 | 内容 |
+| --- | ---- |
+| 19:00 - 19:45 | 1. GitLabの基本機能の説明 |
+| 19:45 - 20:30 | 2. GitLabのハンズオン |
+| 20:30 - 21:00 | 3. LT、雑談タイム |
+
+### 1. GitLabの基本機能の説明
+
+GitLabの基本機能について説明します。
+大きく分けて以下の４つの機能について説明します。
+
+1. Repository機能
+2. Issue機能
+3. Merge Request機能
+4. Pipeline機能
+
+### 2. GitLabのハンズオン
+
+GitLabに練習用のProjectを作成し、GitLabでどんなことができるのか体験してみましょう。
+
+### 3. LT
+
+特にGitLabとは関係なくても、IT関連のネタで何か話したい人がいれば発表をお願いします。
+
+※制限時間は5分です。
+
+時間が余った場合は、早めに解散して参加者同士の雑談タイムとします。
+
+## 持ち物
+
+* ノートPC
+
+## 事前準備
+
+* 当日お持ち頂くPCにGitをインストールしておいて下さい。
+* 当日のハンズオンに必要なためGitLabのアカウントを作成しておいて下さい。
+    * [サインアップページ](https://gitlab.com/users/sign_in)
